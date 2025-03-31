@@ -1,6 +1,7 @@
 package deadlock
 
 import (
+
 	"log"
 	"math/rand"
 	"sync"

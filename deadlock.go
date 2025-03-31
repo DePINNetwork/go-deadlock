@@ -1,6 +1,7 @@
 package deadlock
 
 import (
+
 	"bufio"
 	"bytes"
 	"fmt"

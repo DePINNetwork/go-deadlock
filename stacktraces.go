@@ -1,6 +1,7 @@
 package deadlock
 
 import (
+
 	"bytes"
 	"fmt"
 	"io"
