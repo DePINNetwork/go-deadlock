@@ -1,4 +1,4 @@
-module github.com/algorand/go-deadlock
+module github.com/DePINNetwork/go-deadlock
 
 go 1.23
 
